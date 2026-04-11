@@ -1,0 +1,12 @@
+{
+  "seed_channels": [
+    "@example_market_channel",
+    "@example_growth_channel",
+    "@example_crypto_channel"
+  ],
+  "strategy": {
+    "deduplicate": true,
+    "expand_from_each_seed": true
+  },
+  "workflow_note": "Используйте найденные каналы как новую базу для модулей сбора аудитории и проверки источников."
+}
