@@ -37,6 +37,15 @@
 4. Просмотрите результаты и отфильтруйте слабые варианты.
 5. Передайте отобранные площадки в сбор аудитории или коммуникационные модули.
 
+## Что логично делать после расширения базы
+
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если нужно быстро перейти от площадок к базе пользователей;
+- [Сбор из комментариев](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram), если интересует аудитория с признаками вовлеченности;
+- [Сбор писавших в чатах](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram), если рядом есть живые обсуждения и чаты;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если discovery уже работает на рост каналов и групп;
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если найденные источники используются как входной слой для коммуникации;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если нужно централизованно следить за поиском, парсингом и следующими сценариями.
+
 ## Как устроен сценарий
 
 ### Исходный список
@@ -73,6 +82,10 @@
 - [Поиск каналов и групп](https://github.com/Deskgram-2/telegram-channel-search-deskgram)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Сбор из комментариев](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram)
+- [Сбор писавших в чатах](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram)
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
