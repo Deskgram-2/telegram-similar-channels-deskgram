@@ -1,13 +1,13 @@
-# Поиск похожих Telegram-каналов через Deskgram 2
+﻿# Поиск похожих Telegram-каналов через Deskgram 2
 
 Поиск похожих каналов в Deskgram 2 помогает расширять базу источников не только от ключевых слов, но и от уже известных площадок. Это хороший модуль для сценария, когда у вас есть несколько сильных каналов в нише, и вы хотите быстро найти соседние по тематике Telegram-площадки.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels&lang=ru)
 
 
 
@@ -130,3 +130,4 @@
 ### Что делать после поиска похожих каналов?
 
 Обычно следующий шаг — сбор аудитории, анализ комментариев или подготовка базы под инвайт и коммуникацию.
+
